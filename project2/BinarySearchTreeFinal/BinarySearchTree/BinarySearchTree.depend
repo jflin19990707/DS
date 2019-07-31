@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1540637044 source:c:\users\leslie\desktop\project2\binarysearchtree\main.c
+	"BinarySearchTree.h"
+
+1540637044 c:\users\leslie\desktop\project2\binarysearchtree\binarysearchtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1540637088 source:c:\users\leslie\desktop\project2\binarysearchtree\read_file.c
+	"BinarySearchTree.h"
+
+1540637088 source:c:\users\leslie\desktop\assignment\datastructures\project_2\binarysearchtree\read_file.c
+	"BinarySearchTree.h"
+
+1540637044 c:\users\leslie\desktop\assignment\datastructures\project_2\binarysearchtree\binarysearchtree.h
+	<stdio.h>
+	<stdlib.h>
+
