@@ -1,0 +1,30 @@
+size: 5
+<algorithm1> result: 33264 iteration: 100000,ticks: 515,total time:0.515000,duration:0.0000051500
+<algorithm2> result: 33264 iteration: 100000,ticks: 438,total time:0.438000,duration:0.0000043800
+<algorithm3> result: 33264 iteration: 100000,ticks: 140,total time:0.140000,duration:0.0000014000
+
+size: 10
+<algorithm1> result: 63168 iteration: 10000,ticks: 1781,total time:1.781000,duration:0.0001781000
+<algorithm2> result: 63168 iteration: 10000,ticks: 437,total time:0.437000,duration:0.0000437000
+<algorithm3> result: 63168 iteration: 10000,ticks: 79,total time:0.079000,duration:0.0000079000
+
+size: 30
+<algorithm1> result: 466576 iteration: 500,ticks: 40443,total time:40.443000,duration:0.0808860000
+<algorithm2> result: 466576 iteration: 500,ticks: 1234,total time:1.234000,duration:0.0024680000
+<algorithm3> result: 466576 iteration: 500,ticks: 94,total time:0.094000,duration:0.0001880000
+
+size: 50
+<algorithm1> result: 625716 iteration: 50,ticks: 79450,total time:79.450000,duration:1.5890000000
+<algorithm2> result: 625716 iteration: 50,ticks: 890,total time:0.890000,duration:0.0178000000
+<algorithm3> result: 625716 iteration: 50,ticks: 47,total time:0.047000,duration:0.0009400000
+
+size: 80
+<algorithm1> result: 1100026 iteration: 20,ticks: 499304,total time:499.304000,duration:24.9652000000
+<algorithm2> result: 1100026 iteration: 20,ticks: 2468,total time:2.468000,duration:0.1234000000
+<algorithm3> result: 1100026 iteration: 20,ticks: 62,total time:0.062000,duration:0.0031000000
+
+size: 100
+<algorithm1> result: 1382871 iteration: 10,ticks: 935309,total time:935.309000,duration:93.5309000000
+<algorithm2> result: 1382871 iteration: 10,ticks: 2874,total time:2.874000,duration:0.2874000000
+<algorithm3> result: 1382871 iteration: 10,ticks: 63,total time:0.063000,duration:0.0063000000
+
